@@ -1,0 +1,6 @@
+{
+  "name": "Toilet Paper Token",
+  "symbol": "TPT",
+  "uri": "https://rawgithubusercontent.com/ticuv/tpt/blob/main/logo.png",
+  "uri_description": "Rolling out a future where memes matter. We’re building while others wipe away opportunities.ToiletPaper Token (TPT) is more than just a meme coin – it’s a movement. Built on Solana’s ultra-fast and low-fee network, TPT combines humor, creativity, and utility to create the ultimate platform for meme lovers and builders alike."
+}
